@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{01CF9641-B4FC-4679-BF5D-7F3C8B6B6D54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab1/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="lab1/Views/_ViewStart.cshtml" Line="3" Column="44" />
+      <File FileName="lab1/Views/Home/Index.cshtml" Line="4" Column="1" />
+      <File FileName="lab1/lab1.csproj" Line="15" Column="15" />
+      <File FileName="lab1/Program.cs" Line="27" Column="1" />
+      <File FileName="lab1/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="lab1/Views/Shared/_Layout.cshtml" Line="21" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab1" expanded="True">
+            <Node name="lab1" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lab1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
